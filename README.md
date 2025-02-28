@@ -20,7 +20,7 @@ Dejaverse is an innovative AI memory and context engine designed to enhance user
 
 ## 🔒 Privacy Approach
 
-Unlike typical LLM wrappers, De'ja focuses on privacy using advanced techniques:
+Unlike typical LLM wrappers, Dejaverse focuses on privacy using advanced techniques:
 - Federated learning: Models train on local data without sharing it
 - Homomorphic encryption: Processing encrypted data for enhanced security
 - Continuous personalized learning without compromising data security
